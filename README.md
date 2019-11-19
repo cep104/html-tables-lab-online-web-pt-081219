@@ -36,10 +36,18 @@ closing `<table>` tags.
 <th>2017 estimate</th>
 </tr>
 <tr>
-<td></td>
+<td>New York</td>
+<td>New York</td>
+<td>8,622,698</td>
 </tr>
-<tr></tr>
-<tr></tr>
+<tr>
+<td>Los Angeles</td>
+<td>California</td>
+<td>3,999,759</td></tr>
+<tr>
+<td>Chicago</td>
+<td>Illinois</td>
+<td>2,716,450</td></tr>
 </table>
 ```
 
