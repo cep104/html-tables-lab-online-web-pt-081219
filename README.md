@@ -31,9 +31,13 @@ closing `<table>` tags.
 ```html
 <table>
 <tr>
-<th></th>
+<th>City</th>
+<th>State</th>
+<th>2017 estimate</th>
 </tr>
-<tr></tr>
+<tr>
+<td></td>
+</tr>
 <tr></tr>
 <tr></tr>
 </table>
