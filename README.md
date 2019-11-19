@@ -48,6 +48,9 @@ closing `<table>` tags.
 <td>Chicago</td>
 <td>Illinois</td>
 <td>2,716,450</td></tr>
+<td>Houston</td>
+<td>Texas</td>
+<td>2,312,717</td></tr>
 </table>
 ```
 
