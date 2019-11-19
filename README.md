@@ -30,6 +30,10 @@ closing `<table>` tags.
 
 ```html
 <table>
+<tr>
+<th></th>
+</tr>
+<tr></tr>
 <tr></tr>
 <tr></tr>
 </table>
